@@ -19,7 +19,11 @@ By analyzing this dataset, we can:
 
 ###  ML Problem Framing
 - **Type**: Classification  
-- **Target Variable**: `is_canceled` (0 = not canceled, 1 = canceled)  
+- **Target Variable**: `is_canceled` (0 = not canceled, 1 = canceled)
+- Type: Binary categorical variable
+0 → Booking not canceled
+1 → Booking canceled
+Reason: This is the dependent variable we want to predict, making the ML problem a classification task.
 - **Justification**:
 
 1.The dataset includes a column named is_canceled, which indicates whether a booking was canceled (1) or not (0).
