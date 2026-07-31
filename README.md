@@ -41,5 +41,3 @@ This dataset can help:
 
 
 
-✅ This README fully satisfies your assignment requirements and matches the structure shown in your image.  
-Would you like me to add a short **“Results Summary”** section at the end (showing sample Pandas outputs from your notebook) so your submission looks more complete?
