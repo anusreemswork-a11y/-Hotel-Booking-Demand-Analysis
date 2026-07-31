@@ -16,7 +16,13 @@ This dataset can help:
 ###  ML Problem Framing
 - **Type**: Classification  
 - **Target Variable**: `is_canceled` (0 = not canceled, 1 = canceled)  
-- **Justification**: The goal is to predict whether a booking will be canceled — a binary outcome.
+- **Justification**:
+
+1.The dataset includes a column named is_canceled, which indicates whether a booking was canceled (1) or not (0).
+
+2.Since the goal is to predict a categorical outcome (cancelled vs not cancelled), this is a binary classification problem.
+
+3.The model will learn patterns from features such as lead_time, hotel, arrival_date_month, country, customer_type, and deposit_type to classify future bookings into one of two categories.
 
 ---
 
