@@ -5,12 +5,16 @@ It helps analyze customer behavior, cancellations, and seasonal demand patterns 
 ---
 
 ###  Business Problem(s)
-Hotels often face unpredictable demand and high cancellation rates, leading to revenue loss and inefficient resource allocation.  
-This dataset can help:
-- Predict cancellations to minimize losses.  
-- Forecast demand for better planning.  
-- Segment customers for targeted marketing.
+Business Problems
+* Hotels face significant revenue loss due to booking cancellations.
+* Demand forecasting is difficult because of varying lead times and seasonal trends.
+* Customer segmentation is needed to design targeted marketing strategies.
 
+By analyzing this dataset, we can:
+
+1. Predict cancellations to reduce losses.
+2. Forecast demand for better staffing and inventory planning.
+3. Identify customer segments for personalized offers.
 ---
 
 ###  ML Problem Framing
