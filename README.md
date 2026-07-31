@@ -21,7 +21,7 @@ By analyzing this dataset, we can:
 - **Type**: Classification  
 - **Target Variable**: `is_canceled` (0 = not canceled, 1 = canceled)
 - Type: Binary categorical variable
-- 
+  
 0 → Booking not canceled
   
 1 → Booking canceled
